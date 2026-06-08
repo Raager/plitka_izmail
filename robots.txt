@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://site.com/sitemap.xml
+Sitemap: https://plitka-izmail.vercel.app/sitemap.xml
